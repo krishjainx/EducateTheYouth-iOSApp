@@ -1,1 +1,1 @@
-*.swift linguist-detectable=true
+ *.* linguist-language=Swift
