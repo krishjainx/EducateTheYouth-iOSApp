@@ -1,7 +1,7 @@
 # EducateTheYouth-iOSApp
 MIT Licensed iOS app for Youth Education Initiative Marbella chapter
 
-Link to App Store - https://apps.apple.com/us/app/educate-the-youth/id1541544307?ign-mpt=uo%3D2
+[On the App Store](https://apps.apple.com/us/app/educate-the-youth/id1541544307?ign-mpt=uo%3D2)
 
 
 "Welcome to "Educate The Youth" app! This app is a perfect blend of engaging fun facts about education all around to world to truly give you an insight into how education works in different countries. 
