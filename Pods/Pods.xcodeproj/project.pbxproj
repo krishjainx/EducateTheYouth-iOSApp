@@ -14,13 +14,13 @@
 		06117D18554D3BD2C4D581DD3ED76AD5 /* FontOpenic.swift in Sources */ = {isa = PBXBuildFile; fileRef = D333C39DAF1B5EEA0A2FCE1D5603980F /* FontOpenic.swift */; };
 		0B620FC0E897E491429E1DE603E84842 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C6902C0F8AF8C6511A9E2A348F495E96 /* FontAwesome.ttf */; };
 		0BCC90663FCEEE727193565299F96615 /* LayerImageProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1510D42D2058C3FF146C8B44955EA09 /* LayerImageProvider.swift */; };
+		0F1577255DFB97693B49545A8DBE5B64 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79CF7D56C5D50C18B2EA0ED106D998C7 /* Foundation.framework */; };
 		10CDE1E6E1EB050D376A90122DF596D3 /* open-iconic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6011FD9F8ADA83320C2B0DFC053E1AE /* open-iconic.ttf */; };
 		113F47C73EE6BD2FD94CE7F0131D7963 /* LRUAnimationCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6817504D1245A7DCB89B0AE13B109 /* LRUAnimationCache.swift */; };
 		1169F72437456C3BF213567896609476 /* PMAlertController-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C69A34E94815B69C50B28C819103CC01 /* PMAlertController-dummy.m */; };
 		116FDB8D280B50B3E12CEB7CA626A905 /* FontAwesome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA7E7F60D2F0EA94B216F8B0B8A3FD /* FontAwesome.swift */; };
 		1212C94DCD6110D6FD59682B542871AF /* PassThroughOutputNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 893C271C6B9A790F206413434477CA33 /* PassThroughOutputNode.swift */; };
 		133DFB5C6578D1EB9DBE5D6D97C4E5D4 /* AssetLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6213A89F9A5F018DF55A81117319CCFD /* AssetLibrary.swift */; };
-		13F77165060EE9D569F451E19CB9CBCA /* Pods-Sample Marbella-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 60AA13E900481827A7D1D769FE782DDB /* Pods-Sample Marbella-dummy.m */; };
 		14BD0DB2C04038BC5857C1F124208111 /* ImageAsset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9044142CBEE20E7AC0CF04A1162DD72F /* ImageAsset.swift */; };
 		158377F7759475572908B0AD1ACDD6E6 /* FontOct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4498432A42D64B4D483EE3D506A94813 /* FontOct.swift */; };
 		163D80EDD1F5C6F1FA7BDE4124CC83D3 /* TextLayerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BAC43F113A8D9FAA9303FDDEEED5C9 /* TextLayerModel.swift */; };
@@ -35,6 +35,7 @@
 		215B0E6FCE90EEB16427D07A070A862A /* AnimationCacheProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453D518EF5442E2D45D844E2D783627A /* AnimationCacheProvider.swift */; };
 		2362AECE7AF295CACFA3CB5BBA594D7D /* ShapeContainerLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95AEF9DB96B18458EC1280DE0FCA7C0 /* ShapeContainerLayer.swift */; };
 		26441EAD257B878842E16D9A2CBB7AF9 /* FloatValueProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098FE00C5BA67A22D3311A731710F33 /* FloatValueProvider.swift */; };
+		26D1040A19586FA2C2285F70E6A5BFE7 /* Pods-Educate The Youth-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 957DE26560B2166C08F0C8E008C6A5FA /* Pods-Educate The Youth-dummy.m */; };
 		2825A5EB4AF728329361C25135C7C019 /* MathKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CA38AAE431C66C1C4200E9CAA9ED23 /* MathKit.swift */; };
 		28B410124BA98ECF1807C19E90A3496E /* PolygonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A182D22131877BDCDD8852E230B712A /* PolygonNode.swift */; };
 		298E4F1A7F3DFD1F512EF7561C18CD20 /* SCLAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7753EE3FB04C23C09529273886297719 /* SCLAlertView.swift */; };
@@ -82,7 +83,6 @@
 		5C2E4750AD6CFCC2ABBBA45A81122B8A /* AnyValueContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03CEC98574D844FFFAF8C121678086FB /* AnyValueContainer.swift */; };
 		5DD436522AA643D435BBB56532398C5C /* LGButton.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0D567F90DE926765BBAD20393C9A02F /* LGButton.xib */; };
 		5E15F97881DAA1FCA5F8927D0EA61967 /* SwiftyGif.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E154706DEE3BE79245F225D1BFAEF22 /* SwiftyGif.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5E7DEDE0E986EE73D57911DBA489C9EE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79CF7D56C5D50C18B2EA0ED106D998C7 /* Foundation.framework */; };
 		5EBCF31DAB05B8EB233C9882DD352D5A /* BezierPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C7A5E114B4E5A65120075F5F6E2E14 /* BezierPath.swift */; };
 		6159D72566F501262E6A4D8C4D432EF7 /* RectNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DFAB2EDF9825E109F7C5A2EB7FAC8A /* RectNode.swift */; };
 		624AB00A56716C4F58607EFC4510BFE5 /* GradientValueProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC3A105AECE82C84ABD5AE90B42B212A /* GradientValueProvider.swift */; };
@@ -144,6 +144,7 @@
 		B4C86877D4658639A825AE10A5360041 /* SolidCompositionLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E06C57A33D856910E9F95BA216D00141 /* SolidCompositionLayer.swift */; };
 		B98733C303FFBD5D956071ED6940935F /* SCLAlertView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0256EEB28778BEEFC9ECD20240C32EBF /* SCLAlertView-dummy.m */; };
 		BD644148B96CAD95FE9EDB392919254B /* KeyframeExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7E829449171A24D408651CB9B89889 /* KeyframeExtensions.swift */; };
+		BEE6C6F1648D4CB15C914BB3559E5AF5 /* Pods-Educate The Youth-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 18C4B870F61122CC618A94F71FAF1011 /* Pods-Educate The Youth-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BF176A4BF95237D8CC2D74B1726F3030 /* ItemsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A07138ED58BF7B972E2ABD6D0EF62E6 /* ItemsExtension.swift */; };
 		BFB6309660473CE20E1F98165D2190D2 /* LGButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BC92C65D53017691D2E8BF4A3F146E6C /* LGButton-dummy.m */; };
 		C1528F534FC33C3DACEDC031E9C42266 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04D60AC13D33197690A05C641925DDDA /* UIKit.framework */; };
@@ -182,34 +183,12 @@
 		F8C737DF6DC941405614BF2886B1DD4D /* ImageLayerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A16BDC3EF8DBF09B2D86946C1C8A6F24 /* ImageLayerModel.swift */; };
 		FA0FB5AA52DE609FFCA1A84D791E37DC /* FontMaterial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5371C22D7F370B19720AFF23FE91D8 /* FontMaterial.swift */; };
 		FB7E4B3BFB5B9E4DFBFA56AFDF061226 /* TextAnimatorNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F012ECBC83BB483B80AA0E81A6CF8F8 /* TextAnimatorNode.swift */; };
-		FB9EF7B4D5899981D19FC93FEC5BBF1C /* Pods-Sample Marbella-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 889CACA7A34B129DCBFB5BD678E984CB /* Pods-Sample Marbella-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FD410BFE43E21D9B20E8D5B532236B1E /* Font.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2807A17C89C18019BEAB7ADE8F58A99 /* Font.swift */; };
 		FEBB2F0A8C4F5E943B120484DFABFD72 /* PreCompLayerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E039F68D2DE5A88FA859F6B59AB93D1B /* PreCompLayerModel.swift */; };
 		FFE261B887C4B4BF7D241F2EE4A811D3 /* CompoundBezierPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAD1EED688211E61050F56601DBDC66 /* CompoundBezierPath.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0103DB87875D892BF7BA65301A852F1F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = FD999FE212F29E29DEEA0A85E1DC4D4E;
-			remoteInfo = LGButton;
-		};
-		01060ECB77518D930854760C9941A3D9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = E0152970E5467A11DF89E7D22C63B47C;
-			remoteInfo = SCLAlertView;
-		};
-		0C66EEF17052BF67B69FB94EFF30552C /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AF447278DD2A27045784F5DA5241502E;
-			remoteInfo = PMAlertController;
-		};
 		0F3E9F7387559A3D0853ECFCFB0E770E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
@@ -217,14 +196,35 @@
 			remoteGlobalIDString = E587873091CEC554E4965B6FC547D2FD;
 			remoteInfo = "PMAlertController-PMAlertController";
 		};
-		B65CD626D0D3630A74F96BC43CEA604E /* PBXContainerItemProxy */ = {
+		0FB79F09115665BC7D1BEF9D632F7F2A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E0152970E5467A11DF89E7D22C63B47C;
+			remoteInfo = SCLAlertView;
+		};
+		60DB39BF0496940F44806E66C629EB4B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AF447278DD2A27045784F5DA5241502E;
+			remoteInfo = PMAlertController;
+		};
+		83F5D53F2736FA9FF9B27DD37D50C7F7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FD999FE212F29E29DEEA0A85E1DC4D4E;
+			remoteInfo = LGButton;
+		};
+		95E0A08DF3A4869D495656F43C5A3C2A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 0B967D7F8561D42493EE289EC8D450D1;
 			remoteInfo = "lottie-ios";
 		};
-		CDF8BB8A92C95897640502585AF544D8 /* PBXContainerItemProxy */ = {
+		BF49AFB1C879767899860049CD8D6BFD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -239,7 +239,6 @@
 		02DBDB84E29526D60E67F89A6DEE8353 /* GroupOutputNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GroupOutputNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/GroupOutputNode.swift"; sourceTree = "<group>"; };
 		03CEC98574D844FFFAF8C121678086FB /* AnyValueContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnyValueContainer.swift; path = "lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/AnyValueContainer.swift"; sourceTree = "<group>"; };
 		03FA7E7F60D2F0EA94B216F8B0B8A3FD /* FontAwesome.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FontAwesome.swift; path = LGButton/Classes/SwiftIconFont/FontAwesome.swift; sourceTree = "<group>"; };
-		040166323AA14E9990EF484A4D5E0FFF /* Pods-Sample Marbella-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Sample Marbella-acknowledgements.plist"; sourceTree = "<group>"; };
 		04D60AC13D33197690A05C641925DDDA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		06194D873B87E76B4CD09C6A6B334459 /* AnimationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationView.swift; path = "lottie-swift/src/Public/Animation/AnimationView.swift"; sourceTree = "<group>"; };
 		0627EC075917B9BBAD13320988A34819 /* lottie-ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "lottie-ios.debug.xcconfig"; sourceTree = "<group>"; };
@@ -250,6 +249,7 @@
 		0B27D421BF5DC2973E3FF0BBB328D5EA /* AnimationViewInitializers.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationViewInitializers.swift; path = "lottie-swift/src/Public/Animation/AnimationViewInitializers.swift"; sourceTree = "<group>"; };
 		0DD14FA076803E5D5E67C65201036DDE /* FontIon.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FontIon.swift; path = LGButton/Classes/SwiftIconFont/FontIon.swift; sourceTree = "<group>"; };
 		0E57257D0585582585BB7B9F3B803334 /* SwiftIconFont.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftIconFont.swift; path = LGButton/Classes/SwiftIconFont/SwiftIconFont.swift; sourceTree = "<group>"; };
+		0F04ED8F2A4279FA6DB9446C947D83B3 /* Pods-Educate The Youth.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Educate The Youth.release.xcconfig"; sourceTree = "<group>"; };
 		0F9156CD07664BBDF79D53186120351F /* Trim.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Trim.swift; path = "lottie-swift/src/Private/Model/ShapeItems/Trim.swift"; sourceTree = "<group>"; };
 		10222D3A3390F0F8AADDE0A876A3150B /* TextCompositionLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TextCompositionLayer.swift; path = "lottie-swift/src/Private/LayerContainers/CompLayers/TextCompositionLayer.swift"; sourceTree = "<group>"; };
 		1098FE00C5BA67A22D3311A731710F33 /* FloatValueProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FloatValueProvider.swift; path = "lottie-swift/src/Public/DynamicProperties/ValueProviders/FloatValueProvider.swift"; sourceTree = "<group>"; };
@@ -258,6 +258,7 @@
 		11CA4C39F3A8983A4743E0585FF8E107 /* lottie-ios-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "lottie-ios-prefix.pch"; sourceTree = "<group>"; };
 		11EDC878FE1F22B9BBC3C68678CCD599 /* Color.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Color.swift; path = "lottie-swift/src/Public/Primitives/Color.swift"; sourceTree = "<group>"; };
 		13F875C2B21CAE541AF6D6926C7B3763 /* MaskContainerLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MaskContainerLayer.swift; path = "lottie-swift/src/Private/LayerContainers/CompLayers/MaskContainerLayer.swift"; sourceTree = "<group>"; };
+		18C4B870F61122CC618A94F71FAF1011 /* Pods-Educate The Youth-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Educate The Youth-umbrella.h"; sourceTree = "<group>"; };
 		18CA38AAE431C66C1C4200E9CAA9ED23 /* MathKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MathKit.swift; path = "lottie-swift/src/Private/Utility/Extensions/MathKit.swift"; sourceTree = "<group>"; };
 		19A3C5DA3A4D19CC632F7FF10019C4AC /* GroupNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GroupNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderContainers/GroupNode.swift"; sourceTree = "<group>"; };
 		19E6A8544291B09C75E93E94DA39872C /* SwiftyGif.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyGif.debug.xcconfig; sourceTree = "<group>"; };
@@ -271,7 +272,6 @@
 		24B75372A7292FF422C0318BAF1A9CA8 /* CompositionLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CompositionLayer.swift; path = "lottie-swift/src/Private/LayerContainers/CompLayers/CompositionLayer.swift"; sourceTree = "<group>"; };
 		25DCF01C2EC29C1E6026CAB3790C1AB5 /* lottie-ios-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "lottie-ios-umbrella.h"; sourceTree = "<group>"; };
 		27413AAEFFDBF006E8CBCDE863F6B75B /* TextDocument.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TextDocument.swift; path = "lottie-swift/src/Private/Model/Text/TextDocument.swift"; sourceTree = "<group>"; };
-		28A28CA476A292460759CA1369FB8B69 /* Pods-Sample Marbella-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Sample Marbella-Info.plist"; sourceTree = "<group>"; };
 		28BFE528374C5F39CA7159806DB5BF17 /* AnimationPublic.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationPublic.swift; path = "lottie-swift/src/Public/Animation/AnimationPublic.swift"; sourceTree = "<group>"; };
 		2B29049594FFC439A21B54DF5485B684 /* StrokeNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StrokeNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/StrokeNode.swift"; sourceTree = "<group>"; };
 		2B36714F94E8934F731579BD544E5BD4 /* StrokeRenderer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StrokeRenderer.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/StrokeRenderer.swift"; sourceTree = "<group>"; };
@@ -280,6 +280,7 @@
 		2DAD1EED688211E61050F56601DBDC66 /* CompoundBezierPath.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CompoundBezierPath.swift; path = "lottie-swift/src/Private/Utility/Primitives/CompoundBezierPath.swift"; sourceTree = "<group>"; };
 		2EEB034BAD0BA6255FBDB4D07C6E8801 /* NodeProperty.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NodeProperty.swift; path = "lottie-swift/src/Private/NodeRenderSystem/NodeProperties/NodeProperty.swift"; sourceTree = "<group>"; };
 		32DCA4516D699FB3BDB7226B1F9B2725 /* Repeater.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Repeater.swift; path = "lottie-swift/src/Private/Model/ShapeItems/Repeater.swift"; sourceTree = "<group>"; };
+		32E31423D7B9048C0EC5030235ABFB46 /* Pods-Educate The Youth-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Educate The Youth-frameworks.sh"; sourceTree = "<group>"; };
 		32F1CBD197888C7A4176D9B4423EE610 /* EllipseNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EllipseNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/EllipseNode.swift"; sourceTree = "<group>"; };
 		3309B9FA2AB5229B62AF3626DB9283E5 /* Group.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Group.swift; path = "lottie-swift/src/Private/Model/ShapeItems/Group.swift"; sourceTree = "<group>"; };
 		36F0585B5276E5770B3A77A9590F4D76 /* lottie-ios.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "lottie-ios.modulemap"; sourceTree = "<group>"; };
@@ -302,30 +303,29 @@
 		4A5371C22D7F370B19720AFF23FE91D8 /* FontMaterial.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FontMaterial.swift; path = LGButton/Classes/SwiftIconFont/FontMaterial.swift; sourceTree = "<group>"; };
 		4DB66A004DD404A4AE5901A2E74F2877 /* SingleValueProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SingleValueProvider.swift; path = "lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/SingleValueProvider.swift"; sourceTree = "<group>"; };
 		4F012ECBC83BB483B80AA0E81A6CF8F8 /* TextAnimatorNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TextAnimatorNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/Text/TextAnimatorNode.swift"; sourceTree = "<group>"; };
-		4F103AB1F74891EFF371D24EB2D8A19B /* Ionicons.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = Ionicons.ttf; path = LGButton/Resources/Ionicons.ttf; sourceTree = "<group>"; };
+		4F103AB1F74891EFF371D24EB2D8A19B /* Ionicons.ttf */ = {isa = PBXFileReference; includeInIndex = 1; name = Ionicons.ttf; path = LGButton/Resources/Ionicons.ttf; sourceTree = "<group>"; };
 		4FEC3DC26D379F81BB11019113D836B5 /* SwiftyGif-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyGif-dummy.m"; sourceTree = "<group>"; };
-		51BA97E8B5085EFFB47BC9C0B785CEA7 /* Lottie.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Lottie.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		51BA97E8B5085EFFB47BC9C0B785CEA7 /* Lottie.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Lottie.framework; path = "lottie-ios.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		51E564F0ED51536D3185ABFA966E4BB5 /* Pods-Educate The Youth.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Educate The Youth.debug.xcconfig"; sourceTree = "<group>"; };
 		549078C573408A6A90F361DF91C7BBCA /* SCLAlertView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SCLAlertView.modulemap; sourceTree = "<group>"; };
 		559EA2B24D7850793E63B7E692F323FD /* UIImageView+SwiftyGif.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImageView+SwiftyGif.swift"; path = "SwiftyGif/UIImageView+SwiftyGif.swift"; sourceTree = "<group>"; };
-		5620DE40F0F97ED614BB6CA8FC2ED20F /* Pods_Sample_Marbella.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Sample_Marbella.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		58B200FDCF63C8A0EC29224847798B1B /* Glyph.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Glyph.swift; path = "lottie-swift/src/Private/Model/Text/Glyph.swift"; sourceTree = "<group>"; };
 		5A526004ABA69E1286CB0D17411B3D76 /* AnimationContext.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationContext.swift; path = "lottie-swift/src/Private/Utility/Helpers/AnimationContext.swift"; sourceTree = "<group>"; };
 		5B5227BC5EB0A06F399964C5C106404F /* SCLExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SCLExtensions.swift; path = SCLAlertView/SCLExtensions.swift; sourceTree = "<group>"; };
 		5D1B4D5001401A8773744FF8230FE81B /* LGButton.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGButton.debug.xcconfig; sourceTree = "<group>"; };
 		5E5A6F6CDCE002321B24038293A1DACF /* VectorsExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VectorsExtensions.swift; path = "lottie-swift/src/Private/Utility/Primitives/VectorsExtensions.swift"; sourceTree = "<group>"; };
-		60AA13E900481827A7D1D769FE782DDB /* Pods-Sample Marbella-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Sample Marbella-dummy.m"; sourceTree = "<group>"; };
 		620A762E7DD27260EFE1F29209FED9FD /* KeypathSearchable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeypathSearchable.swift; path = "lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/KeypathSearchable.swift"; sourceTree = "<group>"; };
 		6213A89F9A5F018DF55A81117319CCFD /* AssetLibrary.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssetLibrary.swift; path = "lottie-swift/src/Private/Model/Assets/AssetLibrary.swift"; sourceTree = "<group>"; };
 		633B53DD41123B3889C2BC3C090E3389 /* DashPattern.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DashPattern.swift; path = "lottie-swift/src/Private/Model/Objects/DashPattern.swift"; sourceTree = "<group>"; };
-		63A0E82474ECE9EBFE85C661A681F251 /* map-icons.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = "map-icons.ttf"; path = "LGButton/Resources/map-icons.ttf"; sourceTree = "<group>"; };
+		63A0E82474ECE9EBFE85C661A681F251 /* map-icons.ttf */ = {isa = PBXFileReference; includeInIndex = 1; name = "map-icons.ttf"; path = "LGButton/Resources/map-icons.ttf"; sourceTree = "<group>"; };
 		63CECF789926AF78B45AF2105B1A44FD /* SwiftyGif.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftyGif.modulemap; sourceTree = "<group>"; };
 		63E6817504D1245A7DCB89B0AE13B109 /* LRUAnimationCache.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LRUAnimationCache.swift; path = "lottie-swift/src/Public/AnimationCache/LRUAnimationCache.swift"; sourceTree = "<group>"; };
-		6948B76C3A3DD894F7DCBA8749683B04 /* MaterialIcons-Regular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = "MaterialIcons-Regular.ttf"; path = "LGButton/Resources/MaterialIcons-Regular.ttf"; sourceTree = "<group>"; };
+		6948B76C3A3DD894F7DCBA8749683B04 /* MaterialIcons-Regular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; name = "MaterialIcons-Regular.ttf"; path = "LGButton/Resources/MaterialIcons-Regular.ttf"; sourceTree = "<group>"; };
 		6C5B128EFFF53340E3356593D35FDB39 /* FontMap.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FontMap.swift; path = LGButton/Classes/SwiftIconFont/FontMap.swift; sourceTree = "<group>"; };
+		6D5A8106D65877C7082E196833AE13DB /* Pods-Educate The Youth.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Educate The Youth.modulemap"; sourceTree = "<group>"; };
 		6E54FE365891FDBF9ACB3F25CC109A64 /* CompositionLayersInitializer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CompositionLayersInitializer.swift; path = "lottie-swift/src/Private/LayerContainers/Utility/CompositionLayersInitializer.swift"; sourceTree = "<group>"; };
 		70801FB6600C57D3A7C715435D10D28C /* PMAlertController-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "PMAlertController-Info.plist"; sourceTree = "<group>"; };
 		711844CCB56F2781540F9CE390D60EC1 /* LayerModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayerModel.swift; path = "lottie-swift/src/Private/Model/Layers/LayerModel.swift"; sourceTree = "<group>"; };
-		741C13CF281B9F81DA689DFD52A9A942 /* Pods-Sample Marbella.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Sample Marbella.modulemap"; sourceTree = "<group>"; };
 		74B805B1A1972C3C48E60CB926AAF275 /* AnimationTime.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationTime.swift; path = "lottie-swift/src/Public/Primitives/AnimationTime.swift"; sourceTree = "<group>"; };
 		74C950633FDE10365B45788CBEA084D5 /* SCLAlertView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SCLAlertView-umbrella.h"; sourceTree = "<group>"; };
 		764408F7CFCAD09E8959C5AAF0DC31EF /* LGButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LGButton.swift; path = LGButton/Classes/LGButton.swift; sourceTree = "<group>"; };
@@ -336,7 +336,7 @@
 		79CF7D56C5D50C18B2EA0ED106D998C7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7A4B3250937557B99139C8D4D649071F /* PMAlertController.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PMAlertController.release.xcconfig; sourceTree = "<group>"; };
 		7AC3CF1D1E862C6E9C5DEB08FC8D5534 /* TextAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TextAnimator.swift; path = "lottie-swift/src/Private/Model/Text/TextAnimator.swift"; sourceTree = "<group>"; };
-		7AD67EFB9A7864151301DC2890207AA2 /* SwiftyGif.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyGif.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AD67EFB9A7864151301DC2890207AA2 /* SwiftyGif.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyGif.framework; path = SwiftyGif.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B014B1A585C71F7BE37201E422C6781 /* GradientFill.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GradientFill.swift; path = "lottie-swift/src/Private/Model/ShapeItems/GradientFill.swift"; sourceTree = "<group>"; };
 		7C247FC155C03A9EBC937651AF70534A /* StringExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StringExtensions.swift; path = "lottie-swift/src/Private/Utility/Extensions/StringExtensions.swift"; sourceTree = "<group>"; };
 		7EB8A1CC8A3FE0A39DD1F802E542A087 /* LGButton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGButton-prefix.pch"; sourceTree = "<group>"; };
@@ -344,26 +344,26 @@
 		83C228D3B6192775235024687F90B603 /* SCLAlertView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SCLAlertView.release.xcconfig; sourceTree = "<group>"; };
 		840FA0B75AF62912A30DDC66B647ED98 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
 		8784708BC982637D80846C1B38AC5CE2 /* Marker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Marker.swift; path = "lottie-swift/src/Private/Model/Objects/Marker.swift"; sourceTree = "<group>"; };
-		8887BAEF748E40A229CAFC06801A926A /* Pods-Sample Marbella.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Sample Marbella.debug.xcconfig"; sourceTree = "<group>"; };
-		889CACA7A34B129DCBFB5BD678E984CB /* Pods-Sample Marbella-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Sample Marbella-umbrella.h"; sourceTree = "<group>"; };
 		88DFAB2EDF9825E109F7C5A2EB7FAC8A /* RectNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RectNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/RectNode.swift"; sourceTree = "<group>"; };
 		89202F84376E54476F053910075C20A8 /* Transform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Transform.swift; path = "lottie-swift/src/Private/Model/Objects/Transform.swift"; sourceTree = "<group>"; };
 		893C271C6B9A790F206413434477CA33 /* PassThroughOutputNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PassThroughOutputNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/PassThroughOutputNode.swift"; sourceTree = "<group>"; };
-		8A7F71E414F85D74CF2B2FE14C246FA5 /* themify.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = themify.ttf; path = LGButton/Resources/themify.ttf; sourceTree = "<group>"; };
+		8A7F71E414F85D74CF2B2FE14C246FA5 /* themify.ttf */ = {isa = PBXFileReference; includeInIndex = 1; name = themify.ttf; path = LGButton/Resources/themify.ttf; sourceTree = "<group>"; };
 		8AF086C0E3D28E357AEF17BAE28AB591 /* ValueContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ValueContainer.swift; path = "lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueContainer.swift"; sourceTree = "<group>"; };
 		901B62833CFC0C780A8AD83712201FD7 /* GradientFillRenderer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GradientFillRenderer.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/GradientFillRenderer.swift"; sourceTree = "<group>"; };
 		9044142CBEE20E7AC0CF04A1162DD72F /* ImageAsset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageAsset.swift; path = "lottie-swift/src/Private/Model/Assets/ImageAsset.swift"; sourceTree = "<group>"; };
 		91B0E328DFC37261CCD1283BA3AF1E23 /* CGFloatExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGFloatExtensions.swift; path = "lottie-swift/src/Private/Utility/Extensions/CGFloatExtensions.swift"; sourceTree = "<group>"; };
 		9420DB3FBD20719B5673A5FE7F7F39CC /* LGButton.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LGButton.modulemap; sourceTree = "<group>"; };
 		94406E3051CFB89545691F7AB161FE16 /* AnimatedControl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimatedControl.swift; path = "lottie-swift/src/Public/iOS/AnimatedControl.swift"; sourceTree = "<group>"; };
+		957DE26560B2166C08F0C8E008C6A5FA /* Pods-Educate The Youth-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Educate The Youth-dummy.m"; sourceTree = "<group>"; };
 		960DCFC9F8495F49BCE135FA79C18B13 /* LGButton-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGButton-umbrella.h"; sourceTree = "<group>"; };
-		962A4B1F73A781D3BB906D0525BD2A8A /* SCLAlertView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SCLAlertView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		962A4B1F73A781D3BB906D0525BD2A8A /* SCLAlertView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SCLAlertView.framework; path = SCLAlertView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		978E6233FD5FDDA7DD52FA21E1410D5B /* Animation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Animation.swift; path = "lottie-swift/src/Private/Model/Animation.swift"; sourceTree = "<group>"; };
 		98C7A5E114B4E5A65120075F5F6E2E14 /* BezierPath.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BezierPath.swift; path = "lottie-swift/src/Private/Utility/Primitives/BezierPath.swift"; sourceTree = "<group>"; };
-		99F54C0910AC11B58FB54F320B0CD72F /* octicons.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = octicons.ttf; path = LGButton/Resources/octicons.ttf; sourceTree = "<group>"; };
+		99F54C0910AC11B58FB54F320B0CD72F /* octicons.ttf */ = {isa = PBXFileReference; includeInIndex = 1; name = octicons.ttf; path = LGButton/Resources/octicons.ttf; sourceTree = "<group>"; };
 		9A07138ED58BF7B972E2ABD6D0EF62E6 /* ItemsExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ItemsExtension.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Extensions/ItemsExtension.swift"; sourceTree = "<group>"; };
 		9B744DCD2AA2A359951235BA9CCD22B2 /* GradientStrokeNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GradientStrokeNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/GradientStrokeNode.swift"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D624D4EE9B7D7F5E960BB5DF6E633F9 /* Pods-Educate The Youth-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Educate The Youth-Info.plist"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0B1B448475C4114182B1AEF43D43215 /* PMAlertController.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PMAlertController.debug.xcconfig; sourceTree = "<group>"; };
 		A0BAC43F113A8D9FAA9303FDDEEED5C9 /* TextLayerModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TextLayerModel.swift; path = "lottie-swift/src/Private/Model/Layers/TextLayerModel.swift"; sourceTree = "<group>"; };
 		A0F4B7C9D7B5DCEA53CA973F80F71B8C /* PMAlertController.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = PMAlertController.xib; path = Library/PMAlertController.xib; sourceTree = "<group>"; };
@@ -385,11 +385,13 @@
 		B6E2EFA249FC278026955609B1709D41 /* lottie-ios-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "lottie-ios-Info.plist"; sourceTree = "<group>"; };
 		B727EEC3E0EFC37C7171711DFBAC4069 /* Ellipse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Ellipse.swift; path = "lottie-swift/src/Private/Model/ShapeItems/Ellipse.swift"; sourceTree = "<group>"; };
 		B7CE74FC1F4D226BACAFEE2EDDD058D0 /* AnimationKeypath.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationKeypath.swift; path = "lottie-swift/src/Public/DynamicProperties/AnimationKeypath.swift"; sourceTree = "<group>"; };
+		B89D62C451AE671BD57A18E7BA368EC8 /* Pods-Educate The Youth-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Educate The Youth-acknowledgements.markdown"; sourceTree = "<group>"; };
+		BB57449F872D61681490A95C7127E2D1 /* Pods-Educate The Youth-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Educate The Youth-acknowledgements.plist"; sourceTree = "<group>"; };
 		BC3A105AECE82C84ABD5AE90B42B212A /* GradientValueProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GradientValueProvider.swift; path = "lottie-swift/src/Public/DynamicProperties/ValueProviders/GradientValueProvider.swift"; sourceTree = "<group>"; };
 		BC6F0D9573FEE844007F47B1F5C36B83 /* PathNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PathNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Protocols/PathNode.swift"; sourceTree = "<group>"; };
 		BC92C65D53017691D2E8BF4A3F146E6C /* LGButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LGButton-dummy.m"; sourceTree = "<group>"; };
 		BE745D8B319C2BFDFAD2DE26415A8FD2 /* PathOutputNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PathOutputNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/PathOutputNode.swift"; sourceTree = "<group>"; };
-		BEB5730D0C9DB3D9997CC93D0C703557 /* LGButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LGButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEB5730D0C9DB3D9997CC93D0C703557 /* LGButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LGButton.framework; path = LGButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF04C47BEAF809AD48008D952C4E4897 /* AnimationSubview.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationSubview.swift; path = "lottie-swift/src/Public/iOS/AnimationSubview.swift"; sourceTree = "<group>"; };
 		C0370C5A6E1B2A0A804D7EDEE011B432 /* ResourceBundle-PMAlertController-PMAlertController-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-PMAlertController-PMAlertController-Info.plist"; sourceTree = "<group>"; };
 		C12D59A619A9B53A5EF9649C6274E6B0 /* Vectors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Vectors.swift; path = "lottie-swift/src/Public/Primitives/Vectors.swift"; sourceTree = "<group>"; };
@@ -400,10 +402,10 @@
 		C58B546215414F5712C247DED80C1862 /* GradientFillNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GradientFillNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/GradientFillNode.swift"; sourceTree = "<group>"; };
 		C5F70A997F50F6EB49FD6C0FECC0D996 /* KeyedDecodingContainerExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeyedDecodingContainerExtensions.swift; path = "lottie-swift/src/Private/Model/Extensions/KeyedDecodingContainerExtensions.swift"; sourceTree = "<group>"; };
 		C6385141ECFA0221E328B1B9F52B1F71 /* ShapeRenderLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShapeRenderLayer.swift; path = "lottie-swift/src/Private/NodeRenderSystem/RenderLayers/ShapeRenderLayer.swift"; sourceTree = "<group>"; };
-		C6902C0F8AF8C6511A9E2A348F495E96 /* FontAwesome.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = FontAwesome.ttf; path = LGButton/Resources/FontAwesome.ttf; sourceTree = "<group>"; };
+		C6902C0F8AF8C6511A9E2A348F495E96 /* FontAwesome.ttf */ = {isa = PBXFileReference; includeInIndex = 1; name = FontAwesome.ttf; path = LGButton/Resources/FontAwesome.ttf; sourceTree = "<group>"; };
 		C69A34E94815B69C50B28C819103CC01 /* PMAlertController-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PMAlertController-dummy.m"; sourceTree = "<group>"; };
 		C866FAD6EACD76461D71353E6091CFB0 /* GroupInterpolator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GroupInterpolator.swift; path = "lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/GroupInterpolator.swift"; sourceTree = "<group>"; };
-		C896D3D249F15B7280D3A50AA603D70F /* PMAlertController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PMAlertController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C896D3D249F15B7280D3A50AA603D70F /* PMAlertController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PMAlertController.framework; path = PMAlertController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAC5ADB0C35E6C3BFBD0FA5F16D95F7A /* Interpolatable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Interpolatable.swift; path = "lottie-swift/src/Private/Utility/Interpolatable/Interpolatable.swift"; sourceTree = "<group>"; };
 		CB00D2772E6C5F253DA0957EE2CF0F80 /* AnimationKeypathExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationKeypathExtension.swift; path = "lottie-swift/src/Private/Utility/Extensions/AnimationKeypathExtension.swift"; sourceTree = "<group>"; };
 		CE228E9F793BF42D9682177B6AA55C9C /* FillI.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FillI.swift; path = "lottie-swift/src/Private/Model/ShapeItems/FillI.swift"; sourceTree = "<group>"; };
@@ -417,10 +419,8 @@
 		DB698E564D3CE7D2254B57C807772399 /* SwiftyGif.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyGif.release.xcconfig; sourceTree = "<group>"; };
 		DC354919D59FC6E6176732A1945C7AFF /* LayerTextProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayerTextProvider.swift; path = "lottie-swift/src/Private/LayerContainers/Utility/LayerTextProvider.swift"; sourceTree = "<group>"; };
 		DC54FC2DF56B5043768504480A1B7303 /* FillNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FillNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/FillNode.swift"; sourceTree = "<group>"; };
-		DC6FD399ECFAB5554B2E262E5700C6E8 /* Pods-Sample Marbella-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Sample Marbella-frameworks.sh"; sourceTree = "<group>"; };
 		DD888FB14682B8718A9C70B9ECD1CA3A /* LayerDebugging.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayerDebugging.swift; path = "lottie-swift/src/Private/Utility/Debugging/LayerDebugging.swift"; sourceTree = "<group>"; };
 		DE7E829449171A24D408651CB9B89889 /* KeyframeExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeyframeExtensions.swift; path = "lottie-swift/src/Private/Utility/Interpolatable/KeyframeExtensions.swift"; sourceTree = "<group>"; };
-		DF4C3A121A8F5A8BF7D4073E27CA86D4 /* Pods-Sample Marbella.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Sample Marbella.release.xcconfig"; sourceTree = "<group>"; };
 		DF72A3637A044D7A35B473B2CE50BA8C /* ShapeItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShapeItem.swift; path = "lottie-swift/src/Private/Model/ShapeItems/ShapeItem.swift"; sourceTree = "<group>"; };
 		E039F68D2DE5A88FA859F6B59AB93D1B /* PreCompLayerModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PreCompLayerModel.swift; path = "lottie-swift/src/Private/Model/Layers/PreCompLayerModel.swift"; sourceTree = "<group>"; };
 		E06C57A33D856910E9F95BA216D00141 /* SolidCompositionLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SolidCompositionLayer.swift; path = "lottie-swift/src/Private/LayerContainers/CompLayers/SolidCompositionLayer.swift"; sourceTree = "<group>"; };
@@ -431,14 +431,14 @@
 		E871E4A71CBB480AD199BEBE4BFE6C73 /* LottieView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LottieView.swift; path = "lottie-swift/src/Public/iOS/LottieView.swift"; sourceTree = "<group>"; };
 		EACF8ED5B8EA8C852616D25C443C912D /* SwiftIconLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftIconLabel.swift; path = LGButton/Classes/SwiftIconFont/SwiftIconLabel.swift; sourceTree = "<group>"; };
 		EBF34502A53ED1ECE1ACE1C9B4C43A04 /* Mask.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mask.swift; path = "lottie-swift/src/Private/Model/Objects/Mask.swift"; sourceTree = "<group>"; };
-		ECE1D4E8E06362E959CA9683CBD7C694 /* PMAlertController.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PMAlertController.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED83BB9B483E14362C5177BDC700AF9B /* Pods-Sample Marbella-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Sample Marbella-acknowledgements.markdown"; sourceTree = "<group>"; };
+		EC9BC8608177A6EF2C730C72F7E5EBC9 /* Pods_Educate_The_Youth.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Educate_The_Youth.framework; path = "Pods-Educate The Youth.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECE1D4E8E06362E959CA9683CBD7C694 /* PMAlertController.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = PMAlertController.bundle; path = "PMAlertController-PMAlertController.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED83FCD30AA103CC652D0FE80C7E9006 /* Keyframe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Keyframe.swift; path = "lottie-swift/src/Private/Model/Keyframes/Keyframe.swift"; sourceTree = "<group>"; };
 		EF41470317672595D9668A7891B5F75D /* InterpolatableExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InterpolatableExtensions.swift; path = "lottie-swift/src/Private/Utility/Interpolatable/InterpolatableExtensions.swift"; sourceTree = "<group>"; };
 		F19917D1F135FC8A041DA353E7450093 /* FontLoader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FontLoader.swift; path = LGButton/Classes/SwiftIconFont/FontLoader.swift; sourceTree = "<group>"; };
 		F1FE95F83D068289F342FB9DA6730D26 /* SCLAlertView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SCLAlertView-prefix.pch"; sourceTree = "<group>"; };
 		F20323306CDC244C881FA57ABB679D1A /* ColorExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ColorExtension.swift; path = "lottie-swift/src/Private/Utility/Primitives/ColorExtension.swift"; sourceTree = "<group>"; };
-		F6011FD9F8ADA83320C2B0DFC053E1AE /* open-iconic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = "open-iconic.ttf"; path = "LGButton/Resources/open-iconic.ttf"; sourceTree = "<group>"; };
+		F6011FD9F8ADA83320C2B0DFC053E1AE /* open-iconic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; name = "open-iconic.ttf"; path = "LGButton/Resources/open-iconic.ttf"; sourceTree = "<group>"; };
 		F95AEF9DB96B18458EC1280DE0FCA7C0 /* ShapeContainerLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShapeContainerLayer.swift; path = "lottie-swift/src/Private/NodeRenderSystem/RenderLayers/ShapeContainerLayer.swift"; sourceTree = "<group>"; };
 		F9C02725D26595C14384A88B79B08138 /* Star.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Star.swift; path = "lottie-swift/src/Private/Model/ShapeItems/Star.swift"; sourceTree = "<group>"; };
 		FA3E08C60F0AE6866DA3B8AACB41A641 /* AnimationContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationContainer.swift; path = "lottie-swift/src/Private/LayerContainers/AnimationContainer.swift"; sourceTree = "<group>"; };
@@ -482,18 +482,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B82A0022470C497C3FB6EFDD6D09C851 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5E7DEDE0E986EE73D57911DBA489C9EE /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		BC3DACD5D884A550386C78E4543C98DF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C98C6D28324BC8103D2EF157C578D642 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F1577255DFB97693B49545A8DBE5B64 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,12 +526,18 @@
 			path = "../Target Support Files/lottie-ios";
 			sourceTree = "<group>";
 		};
-		20F498111798ACBA005764AE96EF9B2B /* Targets Support Files */ = {
+		4159FC540AC2D752C6D9FEDDE9DF00FD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C2068F2E6A917AD4FF9FA31B8AF5F00A /* Pods-Sample Marbella */,
+				BEB5730D0C9DB3D9997CC93D0C703557 /* LGButton.framework */,
+				51BA97E8B5085EFFB47BC9C0B785CEA7 /* Lottie.framework */,
+				ECE1D4E8E06362E959CA9683CBD7C694 /* PMAlertController.bundle */,
+				C896D3D249F15B7280D3A50AA603D70F /* PMAlertController.framework */,
+				EC9BC8608177A6EF2C730C72F7E5EBC9 /* Pods_Educate_The_Youth.framework */,
+				962A4B1F73A781D3BB906D0525BD2A8A /* SCLAlertView.framework */,
+				7AD67EFB9A7864151301DC2890207AA2 /* SwiftyGif.framework */,
 			);
-			name = "Targets Support Files";
+			name = Products;
 			sourceTree = "<group>";
 		};
 		4269A0C7A2A412653F547EA14CEB8234 /* SCLAlertView */ = {
@@ -541,6 +547,7 @@
 				5B5227BC5EB0A06F399964C5C106404F /* SCLExtensions.swift */,
 				8719F990CFB357B69BC2F2E7FE607C38 /* Support Files */,
 			);
+			name = SCLAlertView;
 			path = SCLAlertView;
 			sourceTree = "<group>";
 		};
@@ -568,7 +575,16 @@
 				559EA2B24D7850793E63B7E692F323FD /* UIImageView+SwiftyGif.swift */,
 				4EECEDCC6A0C905641D1DC16406C3037 /* Support Files */,
 			);
+			name = SwiftyGif;
 			path = SwiftyGif;
+			sourceTree = "<group>";
+		};
+		64436B2BE04D21A53DA590B03B4125BD /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				890E74103001752E0A191170E2705674 /* Pods-Educate The Youth */,
+			);
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 		7D319803001088B1F67A0BF3B089C20B /* lottie-ios */ = {
@@ -703,6 +719,7 @@
 				5E5A6F6CDCE002321B24038293A1DACF /* VectorsExtensions.swift */,
 				0063A0D0C1A5AADAA46FB6BF9FFC2FAD /* Support Files */,
 			);
+			name = "lottie-ios";
 			path = "lottie-ios";
 			sourceTree = "<group>";
 		};
@@ -715,6 +732,7 @@
 				956794CE6F3FFEDEA02F1F92851B1BA6 /* Resources */,
 				A1DD90A633504E9D0D9985764AEA15F8 /* Support Files */,
 			);
+			name = PMAlertController;
 			path = PMAlertController;
 			sourceTree = "<group>";
 		};
@@ -731,6 +749,23 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/SCLAlertView";
+			sourceTree = "<group>";
+		};
+		890E74103001752E0A191170E2705674 /* Pods-Educate The Youth */ = {
+			isa = PBXGroup;
+			children = (
+				6D5A8106D65877C7082E196833AE13DB /* Pods-Educate The Youth.modulemap */,
+				B89D62C451AE671BD57A18E7BA368EC8 /* Pods-Educate The Youth-acknowledgements.markdown */,
+				BB57449F872D61681490A95C7127E2D1 /* Pods-Educate The Youth-acknowledgements.plist */,
+				957DE26560B2166C08F0C8E008C6A5FA /* Pods-Educate The Youth-dummy.m */,
+				32E31423D7B9048C0EC5030235ABFB46 /* Pods-Educate The Youth-frameworks.sh */,
+				9D624D4EE9B7D7F5E960BB5DF6E633F9 /* Pods-Educate The Youth-Info.plist */,
+				18C4B870F61122CC618A94F71FAF1011 /* Pods-Educate The Youth-umbrella.h */,
+				51E564F0ED51536D3185ABFA966E4BB5 /* Pods-Educate The Youth.debug.xcconfig */,
+				0F04ED8F2A4279FA6DB9446C947D83B3 /* Pods-Educate The Youth.release.xcconfig */,
+			);
+			name = "Pods-Educate The Youth";
+			path = "Target Support Files/Pods-Educate The Youth";
 			sourceTree = "<group>";
 		};
 		9092C9FB0353581FF3C3760B51E41470 /* LGButton */ = {
@@ -750,6 +785,7 @@
 				D81825FCAD40AB8DB7FE53E997C4D59D /* Resources */,
 				AB1270DCFD0F1A85423D904A8B53A4BD /* Support Files */,
 			);
+			name = LGButton;
 			path = LGButton;
 			sourceTree = "<group>";
 		};
@@ -791,43 +827,12 @@
 			path = "../Target Support Files/LGButton";
 			sourceTree = "<group>";
 		};
-		B45B90536321FA67F43E20071448FB12 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				BEB5730D0C9DB3D9997CC93D0C703557 /* LGButton.framework */,
-				51BA97E8B5085EFFB47BC9C0B785CEA7 /* Lottie.framework */,
-				ECE1D4E8E06362E959CA9683CBD7C694 /* PMAlertController.bundle */,
-				C896D3D249F15B7280D3A50AA603D70F /* PMAlertController.framework */,
-				5620DE40F0F97ED614BB6CA8FC2ED20F /* Pods_Sample_Marbella.framework */,
-				962A4B1F73A781D3BB906D0525BD2A8A /* SCLAlertView.framework */,
-				7AD67EFB9A7864151301DC2890207AA2 /* SwiftyGif.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				F9D206BABE81E6BF0B9B23880B238CC7 /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		C2068F2E6A917AD4FF9FA31B8AF5F00A /* Pods-Sample Marbella */ = {
-			isa = PBXGroup;
-			children = (
-				741C13CF281B9F81DA689DFD52A9A942 /* Pods-Sample Marbella.modulemap */,
-				ED83BB9B483E14362C5177BDC700AF9B /* Pods-Sample Marbella-acknowledgements.markdown */,
-				040166323AA14E9990EF484A4D5E0FFF /* Pods-Sample Marbella-acknowledgements.plist */,
-				60AA13E900481827A7D1D769FE782DDB /* Pods-Sample Marbella-dummy.m */,
-				DC6FD399ECFAB5554B2E262E5700C6E8 /* Pods-Sample Marbella-frameworks.sh */,
-				28A28CA476A292460759CA1369FB8B69 /* Pods-Sample Marbella-Info.plist */,
-				889CACA7A34B129DCBFB5BD678E984CB /* Pods-Sample Marbella-umbrella.h */,
-				8887BAEF748E40A229CAFC06801A926A /* Pods-Sample Marbella.debug.xcconfig */,
-				DF4C3A121A8F5A8BF7D4073E27CA86D4 /* Pods-Sample Marbella.release.xcconfig */,
-			);
-			name = "Pods-Sample Marbella";
-			path = "Target Support Files/Pods-Sample Marbella";
 			sourceTree = "<group>";
 		};
 		C86FFB12E94B7A48BC6C1BE30E5E49BB /* Pods */ = {
@@ -848,8 +853,8 @@
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */,
 				C86FFB12E94B7A48BC6C1BE30E5E49BB /* Pods */,
-				B45B90536321FA67F43E20071448FB12 /* Products */,
-				20F498111798ACBA005764AE96EF9B2B /* Targets Support Files */,
+				4159FC540AC2D752C6D9FEDDE9DF00FD /* Products */,
+				64436B2BE04D21A53DA590B03B4125BD /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -915,11 +920,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D80180E5FBC0850FBC785F5F09280078 /* Headers */ = {
+		8ABCD3A54E1D004A299BC5CBDECC0099 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB9EF7B4D5899981D19FC93FEC5BBF1C /* Pods-Sample Marbella-umbrella.h in Headers */,
+				BEE6C6F1648D4CB15C914BB3559E5AF5 /* Pods-Educate The Youth-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -970,29 +975,6 @@
 			productReference = 7AD67EFB9A7864151301DC2890207AA2 /* SwiftyGif.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		74C28CBDE47ED57AA334ABA06FE893FB /* Pods-Sample Marbella */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 131635AD464D7A57547F10AD64F8B817 /* Build configuration list for PBXNativeTarget "Pods-Sample Marbella" */;
-			buildPhases = (
-				D80180E5FBC0850FBC785F5F09280078 /* Headers */,
-				00EB0F667D3521CC775D58F037D0FC9F /* Sources */,
-				B82A0022470C497C3FB6EFDD6D09C851 /* Frameworks */,
-				1E2424237C5F97D07DAA2887B1E18844 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				C913BB1788511F3D0E1DD87CBA873FFF /* PBXTargetDependency */,
-				2A7016610E0701E7DE892E7B68E69D9F /* PBXTargetDependency */,
-				EC7DE8CAF85F5BDCC910570140294E9F /* PBXTargetDependency */,
-				D677C1709AC8041FE00799134AF9B738 /* PBXTargetDependency */,
-				3E835D124F8B8869E96560019344E244 /* PBXTargetDependency */,
-			);
-			name = "Pods-Sample Marbella";
-			productName = "Pods-Sample Marbella";
-			productReference = 5620DE40F0F97ED614BB6CA8FC2ED20F /* Pods_Sample_Marbella.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		AF447278DD2A27045784F5DA5241502E /* PMAlertController */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = BF466A9A4A96F85C747D6D1DECF2C5ED /* Build configuration list for PBXNativeTarget "PMAlertController" */;
@@ -1010,6 +992,29 @@
 			name = PMAlertController;
 			productName = PMAlertController;
 			productReference = C896D3D249F15B7280D3A50AA603D70F /* PMAlertController.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		DE29D0F3A6E316010BC458436E4A04A7 /* Pods-Educate The Youth */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 62773999EEB9C867401F9488AED9A92E /* Build configuration list for PBXNativeTarget "Pods-Educate The Youth" */;
+			buildPhases = (
+				8ABCD3A54E1D004A299BC5CBDECC0099 /* Headers */,
+				83C8FE6F044758BD9F3D1C7715336DA2 /* Sources */,
+				C98C6D28324BC8103D2EF157C578D642 /* Frameworks */,
+				AEA7BCF27BA61104FEEE4DCEB368FC15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1F20ABFA1D147A706A0FDCBD7F96DD05 /* PBXTargetDependency */,
+				8FDDF14CD881A47AA9CDC59E1A826918 /* PBXTargetDependency */,
+				AD943288554BB1EB1F86E7775C90B4A3 /* PBXTargetDependency */,
+				153529E9143EE2E35E4012553A20B5C6 /* PBXTargetDependency */,
+				92D808BC8061ADD1570FB18271E2FF12 /* PBXTargetDependency */,
+			);
+			name = "Pods-Educate The Youth";
+			productName = "Pods-Educate The Youth";
+			productReference = EC9BC8608177A6EF2C730C72F7E5EBC9 /* Pods_Educate_The_Youth.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		E0152970E5467A11DF89E7D22C63B47C /* SCLAlertView */ = {
@@ -1072,7 +1077,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1220;
+				LastUpgradeCheck = 1100;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 10.0";
@@ -1083,7 +1088,7 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = B45B90536321FA67F43E20071448FB12 /* Products */;
+			productRefGroup = 4159FC540AC2D752C6D9FEDDE9DF00FD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -1091,7 +1096,7 @@
 				0B967D7F8561D42493EE289EC8D450D1 /* lottie-ios */,
 				AF447278DD2A27045784F5DA5241502E /* PMAlertController */,
 				E587873091CEC554E4965B6FC547D2FD /* PMAlertController-PMAlertController */,
-				74C28CBDE47ED57AA334ABA06FE893FB /* Pods-Sample Marbella */,
+				DE29D0F3A6E316010BC458436E4A04A7 /* Pods-Educate The Youth */,
 				E0152970E5467A11DF89E7D22C63B47C /* SCLAlertView */,
 				15AEBAFA43912F898FC2E1A73025C946 /* SwiftyGif */,
 			);
@@ -1129,13 +1134,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1E2424237C5F97D07DAA2887B1E18844 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		3459A5ADAD2268801F26DAB90B620C62 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1151,6 +1149,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		AEA7BCF27BA61104FEEE4DCEB368FC15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		ECF5EFE0E25156C527D3ED02193610A0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1161,14 +1166,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		00EB0F667D3521CC775D58F037D0FC9F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				13F77165060EE9D569F451E19CB9CBCA /* Pods-Sample Marbella-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		35B51FE3E3AA700057167B2F17DB182E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1207,6 +1204,14 @@
 				1169F72437456C3BF213567896609476 /* PMAlertController-dummy.m in Sources */,
 				7358F2197F5104A870C7E2BE8C100BA8 /* PMAlertController.swift in Sources */,
 				A73F8B493B09BD2E306DDAA05CBFD78F /* PMAlertController.xib in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		83C8FE6F044758BD9F3D1C7715336DA2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				26D1040A19586FA2C2285F70E6A5BFE7 /* Pods-Educate The Youth-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1365,35 +1370,35 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2A7016610E0701E7DE892E7B68E69D9F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = PMAlertController;
-			target = AF447278DD2A27045784F5DA5241502E /* PMAlertController */;
-			targetProxy = 0C66EEF17052BF67B69FB94EFF30552C /* PBXContainerItemProxy */;
-		};
-		3E835D124F8B8869E96560019344E244 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "lottie-ios";
-			target = 0B967D7F8561D42493EE289EC8D450D1 /* lottie-ios */;
-			targetProxy = B65CD626D0D3630A74F96BC43CEA604E /* PBXContainerItemProxy */;
-		};
-		C913BB1788511F3D0E1DD87CBA873FFF /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = LGButton;
-			target = FD999FE212F29E29DEEA0A85E1DC4D4E /* LGButton */;
-			targetProxy = 0103DB87875D892BF7BA65301A852F1F /* PBXContainerItemProxy */;
-		};
-		D677C1709AC8041FE00799134AF9B738 /* PBXTargetDependency */ = {
+		153529E9143EE2E35E4012553A20B5C6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SwiftyGif;
 			target = 15AEBAFA43912F898FC2E1A73025C946 /* SwiftyGif */;
-			targetProxy = CDF8BB8A92C95897640502585AF544D8 /* PBXContainerItemProxy */;
+			targetProxy = BF49AFB1C879767899860049CD8D6BFD /* PBXContainerItemProxy */;
 		};
-		EC7DE8CAF85F5BDCC910570140294E9F /* PBXTargetDependency */ = {
+		1F20ABFA1D147A706A0FDCBD7F96DD05 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = LGButton;
+			target = FD999FE212F29E29DEEA0A85E1DC4D4E /* LGButton */;
+			targetProxy = 83F5D53F2736FA9FF9B27DD37D50C7F7 /* PBXContainerItemProxy */;
+		};
+		8FDDF14CD881A47AA9CDC59E1A826918 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = PMAlertController;
+			target = AF447278DD2A27045784F5DA5241502E /* PMAlertController */;
+			targetProxy = 60DB39BF0496940F44806E66C629EB4B /* PBXContainerItemProxy */;
+		};
+		92D808BC8061ADD1570FB18271E2FF12 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "lottie-ios";
+			target = 0B967D7F8561D42493EE289EC8D450D1 /* lottie-ios */;
+			targetProxy = 95E0A08DF3A4869D495656F43C5A3C2A /* PBXContainerItemProxy */;
+		};
+		AD943288554BB1EB1F86E7775C90B4A3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SCLAlertView;
 			target = E0152970E5467A11DF89E7D22C63B47C /* SCLAlertView */;
-			targetProxy = 01060ECB77518D930854760C9941A3D9 /* PBXContainerItemProxy */;
+			targetProxy = 0FB79F09115665BC7D1BEF9D632F7F2A /* PBXContainerItemProxy */;
 		};
 		FD7BB0365C7E55EB1CD682EB20223AF0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -1419,7 +1424,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SwiftyGif/SwiftyGif-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SwiftyGif/SwiftyGif-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1438,43 +1443,6 @@
 			};
 			name = Debug;
 		};
-		29872438E31B82D13CF5E0812C12D3BC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8887BAEF748E40A229CAFC06801A926A /* Pods-Sample Marbella.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		29EBFA974B3853FFE73ED945C380CA34 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7A4B3250937557B99139C8D4D649071F /* PMAlertController.release.xcconfig */;
@@ -1482,50 +1450,12 @@
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/PMAlertController";
 				IBSC_MODULE = PMAlertController;
 				INFOPLIST_FILE = "Target Support Files/PMAlertController/ResourceBundle-PMAlertController-PMAlertController-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = PMAlertController;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		368D28FCEDEB13D0969C7E01FC8242A6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DF4C3A121A8F5A8BF7D4073E27CA86D4 /* Pods-Sample Marbella.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
@@ -1536,7 +1466,7 @@
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/PMAlertController";
 				IBSC_MODULE = PMAlertController;
 				INFOPLIST_FILE = "Target Support Files/PMAlertController/ResourceBundle-PMAlertController-PMAlertController-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = PMAlertController;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1626,7 +1556,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/LGButton/LGButton-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/LGButton/LGButton-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1661,7 +1591,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SCLAlertView/SCLAlertView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SCLAlertView/SCLAlertView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1758,7 +1688,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SCLAlertView/SCLAlertView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SCLAlertView/SCLAlertView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1771,6 +1701,43 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		8DB7D4BC3778AE302218B70EDB4B3E5C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 51E564F0ED51536D3185ABFA966E4BB5 /* Pods-Educate The Youth.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1792,7 +1759,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SwiftyGif/SwiftyGif-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SwiftyGif/SwiftyGif-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1827,7 +1794,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/LGButton/LGButton-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/LGButton/LGButton-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1861,7 +1828,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/PMAlertController/PMAlertController-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/PMAlertController/PMAlertController-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1895,7 +1862,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/PMAlertController/PMAlertController-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/PMAlertController/PMAlertController-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1908,6 +1875,44 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		AD7D2514445410AD3FA5D7A084732718 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0F04ED8F2A4279FA6DB9446C947D83B3 /* Pods-Educate The Youth.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1930,7 +1935,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/lottie-ios/lottie-ios-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/lottie-ios/lottie-ios-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1965,7 +1970,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/lottie-ios/lottie-ios-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/lottie-ios/lottie-ios-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1987,15 +1992,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		131635AD464D7A57547F10AD64F8B817 /* Build configuration list for PBXNativeTarget "Pods-Sample Marbella" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				29872438E31B82D13CF5E0812C12D3BC /* Debug */,
-				368D28FCEDEB13D0969C7E01FC8242A6 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		1C3185DD1C18DF853FECAADC13650B0D /* Build configuration list for PBXNativeTarget "PMAlertController-PMAlertController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -2019,6 +2015,15 @@
 			buildConfigurations = (
 				4BC7450F9457737EE3E637BA155B56F7 /* Debug */,
 				8B5A46FF8D3C1289CDEE3BAFACABCD2A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		62773999EEB9C867401F9488AED9A92E /* Build configuration list for PBXNativeTarget "Pods-Educate The Youth" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8DB7D4BC3778AE302218B70EDB4B3E5C /* Debug */,
+				AD7D2514445410AD3FA5D7A084732718 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

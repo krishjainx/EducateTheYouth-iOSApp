@@ -71,7 +71,7 @@
 		2EED4C842569F40A0085B125 /* astronomy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2EED4C832569F40A0085B125 /* astronomy.jpg */; };
 		2EED4C902569FD780085B125 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EED4C8F2569FD780085B125 /* Question.swift */; };
 		2EED4C942569FE720085B125 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EED4C932569FE720085B125 /* QuestionBank.swift */; };
-		C8DC7E1C2FC9F12DF97B6F69 /* Pods_Sample_Marbella.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEE7BE0BE21864312A37BE4D /* Pods_Sample_Marbella.framework */; };
+		780A63F9A9F6E0FDEAD00436 /* Pods_Educate_The_Youth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6815FF6326D403ABEE5AD0C5 /* Pods_Educate_The_Youth.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -88,6 +88,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		22CB8878B399D776D3285501 /* Pods-Educate The Youth.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Educate The Youth.release.xcconfig"; path = "Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth.release.xcconfig"; sourceTree = "<group>"; };
 		2E0206392534A574008EDC2E /* janbg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = janbg.jpg; sourceTree = "<group>"; };
 		2E02063C2534F946008EDC2E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		2E03719A253CCCA10099A12D /* LunaGifViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunaGifViewController.swift; sourceTree = "<group>"; };
@@ -175,8 +176,9 @@
 		2EFACEBC2552400600889E76 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		2EFACEBE2552400600889E76 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		45D24C8CC14A2631AEE3D8E1 /* Pods-Sample Marbella.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sample Marbella.debug.xcconfig"; path = "Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella.debug.xcconfig"; sourceTree = "<group>"; };
+		6815FF6326D403ABEE5AD0C5 /* Pods_Educate_The_Youth.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Educate_The_Youth.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		90AB3DCACED4389F26DB09F7 /* Pods-Educate The Youth.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Educate The Youth.debug.xcconfig"; path = "Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth.debug.xcconfig"; sourceTree = "<group>"; };
 		CA6C6CE32A6AEAE4867848B0 /* Pods-Sample Marbella.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sample Marbella.release.xcconfig"; path = "Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella.release.xcconfig"; sourceTree = "<group>"; };
-		EEE7BE0BE21864312A37BE4D /* Pods_Sample_Marbella.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Sample_Marbella.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,7 +186,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C8DC7E1C2FC9F12DF97B6F69 /* Pods_Sample_Marbella.framework in Frameworks */,
+				780A63F9A9F6E0FDEAD00436 /* Pods_Educate_The_Youth.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,7 +196,7 @@
 		2E22C6802523D0B800734FAE = {
 			isa = PBXGroup;
 			children = (
-				2E22C68B2523D0B900734FAE /* Sample */,
+				2E22C68B2523D0B900734FAE /* YouthEducationApp */,
 				2E22C68A2523D0B900734FAE /* Products */,
 				E80FC3FF1BE7F53DD3829D86 /* Pods */,
 				58F5FFEBC340FC8582E08EC4 /* Frameworks */,
@@ -209,7 +211,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2E22C68B2523D0B900734FAE /* Sample */ = {
+		2E22C68B2523D0B900734FAE /* YouthEducationApp */ = {
 			isa = PBXGroup;
 			children = (
 				2EED4C8E2569FD470085B125 /* Model */,
@@ -261,7 +263,7 @@
 				2EB3D1592554DAD600741752 /* QuotesViewController.swift */,
 				2E697A3725556AF700CF14C2 /* QuizGameViewController.swift */,
 			);
-			path = Sample;
+			path = YouthEducationApp;
 			sourceTree = "<group>";
 		};
 		2E22C6A12523D50000734FAE /* Content */ = {
@@ -343,9 +345,9 @@
 		58F5FFEBC340FC8582E08EC4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				EEE7BE0BE21864312A37BE4D /* Pods_Sample_Marbella.framework */,
 				2EFACEBC2552400600889E76 /* WidgetKit.framework */,
 				2EFACEBE2552400600889E76 /* SwiftUI.framework */,
+				6815FF6326D403ABEE5AD0C5 /* Pods_Educate_The_Youth.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -355,6 +357,8 @@
 			children = (
 				45D24C8CC14A2631AEE3D8E1 /* Pods-Sample Marbella.debug.xcconfig */,
 				CA6C6CE32A6AEAE4867848B0 /* Pods-Sample Marbella.release.xcconfig */,
+				90AB3DCACED4389F26DB09F7 /* Pods-Educate The Youth.debug.xcconfig */,
+				22CB8878B399D776D3285501 /* Pods-Educate The Youth.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -396,7 +400,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2E22C6842523D0B800734FAE /* Build configuration list for PBXProject "Sample" */;
+			buildConfigurationList = 2E22C6842523D0B800734FAE /* Build configuration list for PBXProject "YouthEducationApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -486,7 +490,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Sample Marbella-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Educate The Youth-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -499,15 +503,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Sample Marbella/Pods-Sample Marbella-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Educate The Youth/Pods-Educate The Youth-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -686,7 +690,7 @@
 		};
 		2E22C69E2523D0B900734FAE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 45D24C8CC14A2631AEE3D8E1 /* Pods-Sample Marbella.debug.xcconfig */;
+			baseConfigurationReference = 90AB3DCACED4389F26DB09F7 /* Pods-Educate The Youth.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -694,7 +698,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = F99JA5QT3U;
-				INFOPLIST_FILE = "$(SRCROOT)/Sample/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/YouthEducationApp/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -711,7 +715,7 @@
 		};
 		2E22C69F2523D0B900734FAE /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA6C6CE32A6AEAE4867848B0 /* Pods-Sample Marbella.release.xcconfig */;
+			baseConfigurationReference = 22CB8878B399D776D3285501 /* Pods-Educate The Youth.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -719,7 +723,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = F99JA5QT3U;
-				INFOPLIST_FILE = "$(SRCROOT)/Sample/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/YouthEducationApp/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -737,7 +741,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2E22C6842523D0B800734FAE /* Build configuration list for PBXProject "Sample" */ = {
+		2E22C6842523D0B800734FAE /* Build configuration list for PBXProject "YouthEducationApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2E22C69B2523D0B900734FAE /* Debug */,

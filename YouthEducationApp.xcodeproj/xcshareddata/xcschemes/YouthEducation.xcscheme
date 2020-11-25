@@ -17,7 +17,7 @@
                BlueprintIdentifier = "2E22C6882523D0B900734FAE"
                BuildableName = "Educate The Youth.app"
                BlueprintName = "Educate The Youth"
-               ReferencedContainer = "container:Sample.xcodeproj">
+               ReferencedContainer = "container:YouthEducationApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,7 +47,7 @@
             BlueprintIdentifier = "2E22C6882523D0B900734FAE"
             BuildableName = "Educate The Youth.app"
             BlueprintName = "Educate The Youth"
-            ReferencedContainer = "container:Sample.xcodeproj">
+            ReferencedContainer = "container:YouthEducationApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -64,7 +64,7 @@
             BlueprintIdentifier = "2E22C6882523D0B900734FAE"
             BuildableName = "Educate The Youth.app"
             BlueprintName = "Educate The Youth"
-            ReferencedContainer = "container:Sample.xcodeproj">
+            ReferencedContainer = "container:YouthEducationApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
