@@ -1,13 +1,16 @@
 # EducateTheYouth-iOSApp
 MIT Licensed iOS app for Youth Education Initiative Marbella chapter
 
+Link to App Store - https://apps.apple.com/us/app/educate-the-youth/id1541544307?ign-mpt=uo%3D2
+
+
 "Welcome to "Educate The Youth" app! This app is a perfect blend of engaging fun facts about education all around to world to truly give you an insight into how education works in different countries. 
 
 In addition is an exciting game to motivate you about the benefits of education, followed by several posters about the importance of education and what we can do to promote it.
 
 In the "Fun facts" section each fact is truly random and never repeats itself, aiding in you remembering it and keeping it interesting. The fun facts can be viewed in Spanish too. The quiz in the app has a progress bar and score counter so that you can keep track."
 
-Still a VERY rudimentary app.
+Still a VERY rudimentary app. 
 
 
 
