@@ -13,4 +13,6 @@ In the "Fun facts" section each fact is truly random and never repeats itself, a
 ![alt text](https://i.ibb.co/2jLbXsj/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-11-22-at-22-09-59.png=10x20)
 ![alt text](https://i.ibb.co/ggtP64k/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-11-22-at-22-10-27.png=10x20)
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://i.ibb.co/bWSMkDF/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-11-24-at-23-37-15.png" width="48">
+<img src="https://i.ibb.co/2jLbXsj/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-11-22-at-22-09-59.png" width="48">
+<img src="https://i.ibb.co/ggtP64k/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-11-22-at-22-10-27.png" width="48">
