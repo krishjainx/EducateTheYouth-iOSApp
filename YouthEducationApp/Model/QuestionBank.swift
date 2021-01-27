@@ -26,8 +26,8 @@ class QuestionBank{
         
         
         list.append(Question(image: "mansittingnexttotreereading.jpg", questionText: "In which country do children start school at age of 7?", choiceA: "Singapore", choiceB: "Finland", choiceC: "Bangladesh", choiceD: "Turkey", answer: 2))
-        
-        list.append(Question(image: "mansittingnexttotreereading.jpg", questionText: "Where is the world's highest school located?", choiceA: "Tibet", choiceB: "China", choiceC: "India", choiceD: "Uruguay", answer: 1))
+//        
+//        list.append(Question(image: "mansittingnexttotreereading.jpg", questionText: "Where is the world's highest school located?", choiceA: "Tibet", choiceB: "China", choiceC: "India", choiceD: "Uruguay", answer: 1))
         
         list.append(Question(image: "mansittingnexttotreereading.jpg", questionText: "Which country below spends the most on education?", choiceA: "Sweden", choiceB: "Norway", choiceC: "Finland", choiceD: "Germany", answer: 2))
         

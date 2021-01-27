@@ -28,11 +28,6 @@
 		2E255E6125563AD800AC2CB8 /* outputesp.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2E255E6025563AD800AC2CB8 /* outputesp.txt */; };
 		2E331B9C2534737000BAE76A /* test2.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E331B9B2534737000BAE76A /* test2.json */; };
 		2E3D39F52551C7D10089708E /* sea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E3D39F42551C7D10089708E /* sea.jpg */; };
-		2E3D3A09255226BF0089708E /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E3D3A04255226BF0089708E /* 1.jpeg */; };
-		2E3D3A0A255226BF0089708E /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E3D3A05255226BF0089708E /* 4.jpeg */; };
-		2E3D3A0B255226BF0089708E /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E3D3A06255226BF0089708E /* 5.jpeg */; };
-		2E3D3A0C255226BF0089708E /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E3D3A07255226BF0089708E /* 2.jpeg */; };
-		2E3D3A0D255226BF0089708E /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E3D3A08255226BF0089708E /* 3.jpeg */; };
 		2E3D3A7025523D490089708E /* confetti.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E3D3A6F25523D490089708E /* confetti.json */; };
 		2E3D996B256AD58600775DCE /* mansittingnexttotreereading.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E3D996A256AD58600775DCE /* mansittingnexttotreereading.jpg */; };
 		2E697A3825556AF700CF14C2 /* QuizGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E697A3725556AF700CF14C2 /* QuizGameViewController.swift */; };
@@ -43,6 +38,15 @@
 		2E6BDAA925576FDB0004B861 /* consoleGamebg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E6BDAA825576FDB0004B861 /* consoleGamebg.jpg */; };
 		2E75D229253C9507009072C3 /* RootPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E75D228253C9506009072C3 /* RootPageViewController.swift */; };
 		2E75D238253CAE0E009072C3 /* FirstSlide.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2E75D237253CAE0E009072C3 /* FirstSlide.gif */; };
+		2E7858F325C1C0E500599372 /* Food for thought.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858EA25C1C0E500599372 /* Food for thought.jpg */; };
+		2E7858F425C1C0E500599372 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858EB25C1C0E500599372 /* 1.jpeg */; };
+		2E7858F525C1C0E500599372 /* Access to education.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858EC25C1C0E500599372 /* Access to education.JPG */; };
+		2E7858F625C1C0E500599372 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858ED25C1C0E500599372 /* 4.jpeg */; };
+		2E7858F725C1C0E500599372 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858EE25C1C0E500599372 /* 5.jpeg */; };
+		2E7858F825C1C0E500599372 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858EF25C1C0E500599372 /* 2.jpeg */; };
+		2E7858F925C1C0E500599372 /* Our goals.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858F025C1C0E500599372 /* Our goals.JPG */; };
+		2E7858FA25C1C0E500599372 /* What we aim to do?.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858F125C1C0E500599372 /* What we aim to do?.JPG */; };
+		2E7858FB25C1C0E500599372 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7858F225C1C0E500599372 /* 3.jpeg */; };
 		2EB3D15A2554DAD600741752 /* QuotesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EB3D1592554DAD600741752 /* QuotesViewController.swift */; };
 		2EC324512533EF2100124D04 /* Images in Resources */ = {isa = PBXBuildFile; fileRef = 2EC3244D2533EE4800124D04 /* Images */; };
 		2EC6A1862548C8F400F3E624 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC6A1852548C8F400F3E624 /* GameViewController.swift */; };
@@ -120,11 +124,6 @@
 		2E255E6025563AD800AC2CB8 /* outputesp.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = outputesp.txt; sourceTree = "<group>"; };
 		2E331B9B2534737000BAE76A /* test2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = test2.json; sourceTree = "<group>"; };
 		2E3D39F42551C7D10089708E /* sea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sea.jpg; sourceTree = "<group>"; };
-		2E3D3A04255226BF0089708E /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
-		2E3D3A05255226BF0089708E /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = "<group>"; };
-		2E3D3A06255226BF0089708E /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = "<group>"; };
-		2E3D3A07255226BF0089708E /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
-		2E3D3A08255226BF0089708E /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
 		2E3D3A6F25523D490089708E /* confetti.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = confetti.json; sourceTree = "<group>"; };
 		2E3D996A256AD58600775DCE /* mansittingnexttotreereading.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mansittingnexttotreereading.jpg; sourceTree = "<group>"; };
 		2E697A3725556AF700CF14C2 /* QuizGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizGameViewController.swift; sourceTree = "<group>"; };
@@ -135,6 +134,15 @@
 		2E6BDAA825576FDB0004B861 /* consoleGamebg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = consoleGamebg.jpg; sourceTree = "<group>"; };
 		2E75D228253C9506009072C3 /* RootPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootPageViewController.swift; sourceTree = "<group>"; };
 		2E75D237253CAE0E009072C3 /* FirstSlide.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = FirstSlide.gif; sourceTree = "<group>"; };
+		2E7858EA25C1C0E500599372 /* Food for thought.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Food for thought.jpg"; sourceTree = "<group>"; };
+		2E7858EB25C1C0E500599372 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		2E7858EC25C1C0E500599372 /* Access to education.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Access to education.JPG"; sourceTree = "<group>"; };
+		2E7858ED25C1C0E500599372 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = "<group>"; };
+		2E7858EE25C1C0E500599372 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = "<group>"; };
+		2E7858EF25C1C0E500599372 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		2E7858F025C1C0E500599372 /* Our goals.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Our goals.JPG"; sourceTree = "<group>"; };
+		2E7858F125C1C0E500599372 /* What we aim to do?.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "What we aim to do?.JPG"; sourceTree = "<group>"; };
+		2E7858F225C1C0E500599372 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
 		2EB3D1592554DAD600741752 /* QuotesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesViewController.swift; sourceTree = "<group>"; };
 		2EC3244D2533EE4800124D04 /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
 		2EC6A1852548C8F400F3E624 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -219,7 +227,6 @@
 				2EE690C4254CB779005950DE /* Base.lproj */,
 				2EE690B3254CB779005950DE /* Content */,
 				2EE690D6254CB779005950DE /* customSegue.swift */,
-				2E3D3A03255226BF0089708E /* LunaPosters */,
 				2EE690C9254CB779005950DE /* Info.plist */,
 				2EE690D8254CB779005950DE /* Main.storyboard */,
 				2EE690D7254CB779005950DE /* ReplaceTopSegue.swift */,
@@ -236,6 +243,7 @@
 				2EED4C7A2569EEC70085B125 /* pristinePink.jpg */,
 				2E17E627252A5BE400C31313 /* ZillaSlab-Bold.ttf */,
 				2E17E624252A5AB300C31313 /* ZillaSlab-Light.ttf */,
+				2E7858E925C1C0E500599372 /* LunaPosters */,
 				2E75D237253CAE0E009072C3 /* FirstSlide.gif */,
 				2E331B9B2534737000BAE76A /* test2.json */,
 				2E3D39F42551C7D10089708E /* sea.jpg */,
@@ -289,17 +297,20 @@
 			path = Content;
 			sourceTree = "<group>";
 		};
-		2E3D3A03255226BF0089708E /* LunaPosters */ = {
+		2E7858E925C1C0E500599372 /* LunaPosters */ = {
 			isa = PBXGroup;
 			children = (
-				2E3D3A04255226BF0089708E /* 1.jpeg */,
-				2E3D3A05255226BF0089708E /* 4.jpeg */,
-				2E3D3A06255226BF0089708E /* 5.jpeg */,
-				2E3D3A07255226BF0089708E /* 2.jpeg */,
-				2E3D3A08255226BF0089708E /* 3.jpeg */,
+				2E7858EA25C1C0E500599372 /* Food for thought.jpg */,
+				2E7858EB25C1C0E500599372 /* 1.jpeg */,
+				2E7858EC25C1C0E500599372 /* Access to education.JPG */,
+				2E7858ED25C1C0E500599372 /* 4.jpeg */,
+				2E7858EE25C1C0E500599372 /* 5.jpeg */,
+				2E7858EF25C1C0E500599372 /* 2.jpeg */,
+				2E7858F025C1C0E500599372 /* Our goals.JPG */,
+				2E7858F125C1C0E500599372 /* What we aim to do?.JPG */,
+				2E7858F225C1C0E500599372 /* 3.jpeg */,
 			);
-			name = LunaPosters;
-			path = "../../Code/Backup of backup/LunaPosters";
+			path = LunaPosters;
 			sourceTree = "<group>";
 		};
 		2EE690B3254CB779005950DE /* Content */ = {
@@ -423,12 +434,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E3D3A0D255226BF0089708E /* 3.jpeg in Resources */,
-				2E3D3A09255226BF0089708E /* 1.jpeg in Resources */,
 				2E6A25BF253C4D9A000661B1 /* books.json in Resources */,
 				2E255E6125563AD800AC2CB8 /* outputesp.txt in Resources */,
 				2EC9B63F2550C06F001BBC6E /* janbg.jpg in Resources */,
 				2EC324512533EF2100124D04 /* Images in Resources */,
+				2E7858FA25C1C0E500599372 /* What we aim to do?.JPG in Resources */,
 				2E1D54672531D57D00F7B8E0 /* Montserrat-Bold.ttf in Resources */,
 				2ECDCC322540AFB900A868F1 /* chevron.png in Resources */,
 				2E3D996B256AD58600775DCE /* mansittingnexttotreereading.jpg in Resources */,
@@ -440,25 +450,31 @@
 				2EE690EA254CB779005950DE /* yei5.jpg in Resources */,
 				2E6BDAA925576FDB0004B861 /* consoleGamebg.jpg in Resources */,
 				2E22C6AD2523D50000734FAE /* yei2.jpg in Resources */,
-				2E3D3A0B255226BF0089708E /* 5.jpeg in Resources */,
 				2E6A25BA253C4CE6000661B1 /* test3.json in Resources */,
 				2E3D3A7025523D490089708E /* confetti.json in Resources */,
 				2EED4C782569E9660085B125 /* stars.jpg in Resources */,
 				2E75D238253CAE0E009072C3 /* FirstSlide.gif in Resources */,
+				2E7858F525C1C0E500599372 /* Access to education.JPG in Resources */,
 				2E6A25B4253C46D6000661B1 /* robothello.json in Resources */,
 				2E3D39F52551C7D10089708E /* sea.jpg in Resources */,
+				2E7858F325C1C0E500599372 /* Food for thought.jpg in Resources */,
+				2E7858F725C1C0E500599372 /* 5.jpeg in Resources */,
+				2E7858F925C1C0E500599372 /* Our goals.JPG in Resources */,
+				2E7858F425C1C0E500599372 /* 1.jpeg in Resources */,
 				2E22C6AE2523D50000734FAE /* yei3.jpg in Resources */,
+				2E7858F625C1C0E500599372 /* 4.jpeg in Resources */,
 				2EE690FB254CB779005950DE /* Main.storyboard in Resources */,
 				2E6A25B7253C48A8000661B1 /* education1.json in Resources */,
 				2E1AD0822529283A002F2DA0 /* sample.jpg in Resources */,
 				2E22C6B52523D50000734FAE /* yei10.jpg in Resources */,
 				2E17E625252A5AB300C31313 /* ZillaSlab-Light.ttf in Resources */,
 				2E22C6AC2523D50000734FAE /* yei1.jpg in Resources */,
+				2E7858FB25C1C0E500599372 /* 3.jpeg in Resources */,
 				2EED4C7E2569EF470085B125 /* port.jpg in Resources */,
-				2E3D3A0C255226BF0089708E /* 2.jpeg in Resources */,
 				2E331B9C2534737000BAE76A /* test2.json in Resources */,
 				2E22C6B12523D50000734FAE /* yei6.jpg in Resources */,
 				2EE690ED254CB779005950DE /* Main.storyboard in Resources */,
+				2E7858F825C1C0E500599372 /* 2.jpeg in Resources */,
 				2E22C6B22523D50000734FAE /* yei7.jpg in Resources */,
 				2E1AD0852529EF01002F2DA0 /* bg.jpg in Resources */,
 				2E255E5E2556364700AC2CB8 /* output.txt in Resources */,
@@ -467,7 +483,6 @@
 				2EE690DE254CB779005950DE /* luna2.jpeg in Resources */,
 				2EED4C812569F0430085B125 /* educationquestion.jpg in Resources */,
 				2EE690EF254CB779005950DE /* Assets.xcassets in Resources */,
-				2E3D3A0A255226BF0089708E /* 4.jpeg in Resources */,
 				2EE690E9254CB779005950DE /* yei4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -623,7 +638,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -678,7 +693,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -704,7 +719,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.0;
+				MARKETING_VERSION = 4.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.puneetjain.educatetheyouth;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Educate The Youth App Store";
@@ -729,7 +744,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.0;
+				MARKETING_VERSION = 4.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.puneetjain.educatetheyouth;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Educate The Youth App Store";
